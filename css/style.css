@@ -1,0 +1,51 @@
+address{
+	background-color: red;
+	color: yellow;
+	text-align: center;
+}
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+.center{
+	text-align: center;
+	color: rgb(055, 022, 011);
+}
+.text-center{
+	text-align: center;
+}
+.bg-color{
+	background-color: lightblue;
+	padding: 10px 100px 50px ;
+}
+table,tr,td,th{
+	border: 1px solid red;
+	align-items: center;
+}
+.box{
+width:50px;
+height: 50px;
+background-color:green;
+padding: 20px;
+border:2em solid red;
+margin:10px solid yellow;
+color: red;
+text-align: center;
+}
+.navbar{
+	display:block;
+	background-color: lightblue;
+	text-align: center;
+	border: 5px;
+	padding: 20px;
+	font-size: 23px;
+}
+.navbar,a{
+	margin: 5px;
+	outline: none;
+	text-decoration: none;
+}
+.box-color{
+	background-color: yellow;
+}
